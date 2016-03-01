@@ -1,2 +1,2 @@
-# mac
+# MacOS
 Recipe Code for MacOS
